@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Blablablabla branch3
 Branch 2
+=======
+Blablablabla branch3
+>>>>>>> branch3
